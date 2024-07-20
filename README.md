@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ariadnouki
+- 👀 I’m interested in coding and skiing
+- 🌱 I’m currently learning JavaScript
